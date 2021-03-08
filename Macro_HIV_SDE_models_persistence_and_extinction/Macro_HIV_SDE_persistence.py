@@ -35,7 +35,7 @@ def Marco_hiv_sde():
 
 
     random.seed( 10 )
-    N=20000
+    N = 20000
 
     S = [350000]
     I = [6000]
