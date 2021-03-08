@@ -35,7 +35,7 @@ def Marco_HIV_SDE_Stable_Distribution():
     dt = np.array([0.01 ])
 
     random.seed( 10 )
-    N=200000
+    N = 200000
 
     S = [350000]
     I = [6000]
